@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_SLSI_VARIANT),bsp)
+ifeq ($(TARGET_SLSI_VARIANT),bsp_gtaxl)
 
 common_exynos_dirs := \
 	libion_exynos \
